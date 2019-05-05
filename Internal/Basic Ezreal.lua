@@ -279,3 +279,6 @@ OnDraw(function(myHero)
 	end
 end)
 
+--Use as a Tutorial!
+--API: http://gos-api.org/?api=gos
+--API Complete: http://gamingonsteroids.com/topic/974-complete-gos-lua-api-alpha-version-018/
