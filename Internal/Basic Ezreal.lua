@@ -31,7 +31,7 @@ local S_Ez = {
 	Q_Ez = {Ranger = 1150, Delay = 0.25 , Speed = 2000 , Width = 80, collision = true},
 	W_Ez = {Ranger = 1150, Delay = 0.25 , Speed = 1600 , Width = 80},
 	E_Ez = {Ranger = 475, Delay = 0.25 , Speed = 2000 , Width = 50},
-	R_Ez = {Ranger = 5000, Delay = 1.0 , Speed = 2000 , Width = 160},
+	R_Ez = {Ranger = 3500, Delay = 1.0 , Speed = 2000 , Width = 160},
 }
 
 --^^Info: https://leagueoflegends.fandom.com/wiki/Ezreal
